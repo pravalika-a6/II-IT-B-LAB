@@ -38,5 +38,5 @@ int main(void)
 ###Output Obtained
 
 ![Test Image1](Program 1 output 1.png)
+![Test Image2](program 1 output 2.png)
 
-![Test Image2](program 1 output 2.PNG)
