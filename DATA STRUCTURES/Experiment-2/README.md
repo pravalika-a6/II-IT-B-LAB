@@ -38,3 +38,23 @@ int main(){
     }
     return 0;
 }
+1.an array of ten elements is given
+2.And the value to be find is also given
+3.the first element is 12,it doesnot matches with the value
+4.so we check the second,third and so on until the element matches with the value
+5.the fifth element 36 matches with the value. so, the index of thet number will get printed
+6.we get the required solution
+
+###Output Obtained
+
+![Test Image](program 1 output 1.png)
+![Test Image](program 1 output 2.png)
+
+
+
+
+
+
+
+
+
