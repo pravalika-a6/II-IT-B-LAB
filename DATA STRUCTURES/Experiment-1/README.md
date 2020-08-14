@@ -40,3 +40,5 @@ int main(void)
 ![Test Image1](Program 1 output 1.png)
 ![Test Image2](program 1 output 2.png)
 
+![program 1 output 1](https://user-images.githubusercontent.com/69143855/90199478-86b42b00-ddf2-11ea-984e-5bc450f6c2ca.png)
+
