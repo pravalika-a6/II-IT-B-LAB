@@ -1,7 +1,11 @@
 #Experiment 2
+
 ##Aim of the experiment - write a program to search an element in an array by using linear searching recursive method.
+
 ##Description of linear searching - A linear search or sequential search is a method for finding an element within a list.It sequentially checks each element of the list until a match is found or the whole list has been searched.
+
 ###Step-by-step procedure of the experiment
+
 #include<stdio.h>
 int reclinearsearch(int array[],int value,int index,int n){
     int s = 0;
@@ -38,6 +42,7 @@ int main(){
     }
     return 0;
 }
+
 1.an array of ten elements is given
 2.And the value to be find is also given
 3.the first element is 12,it doesnot matches with the value
