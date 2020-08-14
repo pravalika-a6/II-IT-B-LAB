@@ -60,6 +60,9 @@ int binarysearch(int a[],int first,int last,int key)
 ![Test Image](program2output2.png)
 ![Test Image](program2output3.png)
 
+![program2output1](https://user-images.githubusercontent.com/69143855/90255327-c0704a80-de61-11ea-987f-01107849d8bb.png)
+
+
 
 
 
