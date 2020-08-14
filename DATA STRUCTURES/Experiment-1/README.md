@@ -42,3 +42,6 @@ int main(void)
 
 ![program 1 output 1](https://user-images.githubusercontent.com/69143855/90199478-86b42b00-ddf2-11ea-984e-5bc450f6c2ca.png)
 
+![program 1 output 2](https://user-images.githubusercontent.com/69143855/90199702-24a7f580-ddf3-11ea-8aee-0a5c01b4e72a.png)
+
+
