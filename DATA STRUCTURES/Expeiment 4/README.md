@@ -1,7 +1,11 @@
 #Experiment 4
+
 ##Aim of the experiment -  write a program to search an element in an array by using binary searching recursive method.
+
 ##Description of binary search - Binary search also known as half-interval search,logarithmic search is a search algorithm that finds the position of a target value within a sorted array.Binary search compares the targeted value to the middle element of the array.
+
 ###Step-by-step procedure of the experiment
+
 #include<stdio.h>
 int recbinarysearch(int array[],int low,int high,int value)
 {
@@ -44,6 +48,7 @@ int main(void)
     
 }
 
+
 1.The first element in the array is 3 and the last element is 98
 2.mid = sum of first and last indices and divided by 2
 3.here mid = 9/2 = 4.5 that is equal to 4
@@ -57,6 +62,7 @@ int main(void)
 ![Test Image](pro2output1.png)
 ![Test Image](pro2output2.png)
 ![Test Image](pro2output3.png)
+
 
 ![pro2output1](https://user-images.githubusercontent.com/69143855/90243360-65802880-de4c-11ea-98c1-b25060bc29ca.png)
 
