@@ -60,3 +60,6 @@ int main(void)
 
 ![pro2output1](https://user-images.githubusercontent.com/69143855/90243360-65802880-de4c-11ea-98c1-b25060bc29ca.png)
 
+![pro2output2](https://user-images.githubusercontent.com/69143855/90243937-6a91a780-de4d-11ea-8c3c-548a50ba863b.png)
+
+
