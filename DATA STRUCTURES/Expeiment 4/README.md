@@ -57,3 +57,6 @@ int main(void)
 ![Test Image](pro2output1.png)
 ![Test Image](pro2output2.png)
 ![Test Image](pro2output3.png)
+
+![pro2output1](https://user-images.githubusercontent.com/69143855/90243360-65802880-de4c-11ea-98c1-b25060bc29ca.png)
+
