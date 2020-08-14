@@ -1,7 +1,11 @@
 #Experiment 1
+
 ##Aim of the experiment -  write a program to search an element in an array by using linear searching iterative method
+
 ##Description of linear search - A linear search or sequential search is amethod for finding an element within a list. It sequentially checks each element of the list until a match is found or the whole list has been searched.
+
 ###Step-by-step procedure
+
 #include<stdio.h>
 int linearsearch(int array[],int size,int value)
 {
@@ -28,6 +32,7 @@ int main(void)
     printf("%d is present at index %d",key,result);
     return 0;
 }
+
 1.an array of ten elements is given
 2.And the value to be find is also given
 3.the first element is 12,it doesnot matches with the value
