@@ -35,7 +35,7 @@ int main(void)
 
 Output1(key element = 36):
 we check each element of the given array against the given key element = 36.
-when the search reaches fifth element,the element in the array matches with the key element,hence the search ends here.Thus the position(index) of the element is obtained that is equal to 5.we got the required output.
+when the search reaches fifth element,the element in the array matches with the key element,hence the search ends here.Thus the position(index) of the element is obtained that is equal to 4.we got the required output.
 
 Output2(key element = 100):
 we check the each element of the given array against the given key element = 100.
