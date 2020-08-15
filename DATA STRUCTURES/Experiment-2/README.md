@@ -42,7 +42,14 @@ int main(){
     }
     return 0;
     
+    
+Output1(key element = 36):
+we check each element of the given array against the given key element = 36.
+when the search reaches fifth element,the element in the array matches with the key element,hence the search ends here.Thus the position(index) of the element is obtained that is equal to 4.we got the required output.
 
+Output2(key element = 100):
+we check the each element of the given array against the given key element = 100.
+The search reaches the last element of the array but as no element in the array matches with the element in the array,the search ends here.The search is unsuccessful as the element is not present.Hence it displays that the element is not found.
 
 
 ###Output Obtained
