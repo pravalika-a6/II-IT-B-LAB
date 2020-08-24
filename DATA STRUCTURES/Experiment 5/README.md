@@ -1,9 +1,10 @@
 Aim of the Experiment: Write a program to sort elements by using bubble sorting technique.
 
+
 Description of Bubble sorting:It is also refers as sinking sort,is a simple sorting algorithm that repeatdely steps through the list, compares adjacent elements and swaps them if they are in the wrong order.The pass through the list is repeated until the list is sorted.
 
-Step-by-step procedure of the experiment:
 
+Step-by-step procedure of the experiment:
 
 #include<stdio.h>
 int main()
@@ -48,6 +49,9 @@ int main()
 9.First, a[j] is assigned to swap,followed by a[j+1] being assigned at a[j] and at last swap is assigned to a[j+1].
 10. this continues till all the elements are sorted
 
+
 Output Obtained:
 
 ![Test Image](DS bubble output)
+
+![DS bubble output](https://user-images.githubusercontent.com/69143855/91007725-52164f80-e5fa-11ea-9db3-9ea79ee8e1a1.png)
