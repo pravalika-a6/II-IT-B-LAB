@@ -1,8 +1,8 @@
 AIM OF THE EXPERIMENT:Program by using Selection sort.
 
-DESCRIPTION:Selection sort is a simple sorting algorithm.This is an in-place comparison-based algorithm in which the list is divided into two parts,the sorted part at the left end and the unsorted part at the right end.Intially,the sorted part is empty and the unsorted part is the entire list.
+DESCRIPTION OF SELECTION SORT:Selection sort is a simple sorting algorithm.This is an in-place comparison-based algorithm in which the list is divided into two parts,the sorted part at the left end and the unsorted part at the right end.Intially,the sorted part is empty and the unsorted part is the entire list.
 
-PROCEDURE:
+STEP BY STEP PROCEDURE OF THE EXPERIMENT:
 
 #include <stdio.h>
 int a[100],n,i,j,k,temp,count=0,pos,swap=0;
@@ -26,7 +26,6 @@ void selection_sort()
         }
         count++;
     printf("\nPass %d :\t",i+1);
-
     for(k=0;k<n;k++){
         printf("%d\t",a[k]);
     }}
@@ -47,4 +46,14 @@ int main()
     }
     return 0;
 }
+
+1.Set the min to the experiment.
+2.Search the minimum element in the array.
+3.Swap the first location with the minimum value in the array.
+4.Assign the second element as min.
+5.Repeat the process until we get a sortd array.
+
+OutputObtained:
+
+![Test Image](
 
