@@ -57,3 +57,6 @@ OutputObtained:
 
 ![Test Image](19WH1A12A6-selectionsort output)
 
+![19WH1A12A6-selectionsort output](https://user-images.githubusercontent.com/69143855/93011870-067f1200-f5b8-11ea-82f6-58a78f7ab11e.png)
+
+
