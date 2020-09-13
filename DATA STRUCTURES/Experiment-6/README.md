@@ -55,5 +55,5 @@ int main()
 
 OutputObtained:
 
-![Test Image](
+![Test Image](19WH1A12A6-selectionsort output)
 
